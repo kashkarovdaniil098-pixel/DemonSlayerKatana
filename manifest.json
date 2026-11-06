@@ -1,0 +1,11 @@
+{
+  "Name": "Demon Slayer Katana",
+  "Author": "kashkarovdaniil098-pixel",
+  "Version": "0.1.0",
+  "Description": "Four Demon Slayer-inspired katana items for Stardew Valley 1.6.",
+  "UniqueID": "KashkarovDaniil.DemonSlayerKatana",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
